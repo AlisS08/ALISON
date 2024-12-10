@@ -1,0 +1,9 @@
+¿Qué es ETL? 
+Es el proceso que las organizaciones impulsadas por datos utilizan para recopilar datos de distintas fuentes para luego reunirlos a fin de facilitar el descubrimiento, la generación de informes, el análisis y la toma de decisiones.
+Los tres pasos distintos de ETL
+Extracción
+Durante la extracción, ETL identifica los datos y los copia desde sus orígenes, de modo de poder transportar los datos al almacén de datos de destino. Los datos pueden proceder de orígenes estructurados y no estructurados. 
+Transformación
+En el proceso de transformación, ETL valida, autentica, desduplica o agrega los datos de manera que los datos resultantes sean fiables y se puedan consultar.
+Carga
+Este paso puede implicar la carga inicial de todos los datos de origen o puede ser la carga de los cambios incrementales en los datos de origen. Puede cargar los datos en tiempo real o en lotes programados.
